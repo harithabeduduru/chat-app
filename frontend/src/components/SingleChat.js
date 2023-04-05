@@ -17,7 +17,7 @@ import  animationData  from '../Animations/Typing.json'
 
 
 
-const ENDPOINT = 'http://localhost:5000';
+const ENDPOINT = 'https://app.netlify.com/sites/jocular-cupcake-dae532';
 var socket, selectedChatCompare;
 
 const SingleChat = ({ fetchAgain, setFetchAgain }) => {
